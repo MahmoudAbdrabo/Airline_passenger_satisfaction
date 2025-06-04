@@ -27,6 +27,19 @@ The project uses the **Airline Passenger Satisfaction Dataset** from Kaggle, whi
 - Dataset link: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
 
 --------------
+## Tools used
+
+   Python 3.10
+   
+   CatBoost
+   
+   Pandas, NumPy, Scikit-learn
+   
+   Plotly,Matplotlib, Seaborn
+   
+   Streamlit 
+
+---------------
 
 ##  How to Run
 
