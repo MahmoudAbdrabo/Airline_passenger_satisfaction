@@ -32,6 +32,6 @@ The project uses the **Airline Passenger Satisfaction Dataset** from Kaggle, whi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/airline-satisfaction-app.git
-   cd airline-satisfaction-app
+   git clone https://github.com/MahmoudAbdrabo/Airline_passenger_satisfaction
+   cd Airline_passenger_satisfaction
 
