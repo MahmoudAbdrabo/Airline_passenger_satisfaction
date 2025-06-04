@@ -8,7 +8,7 @@ from plotly.offline import iplot
  
 st.title("✈️ Data Visualization - Airline Passengers")
  
-df = pd.read_csv(r'B:\Airline\train.csv')
+df = pd.read_csv(r'train.csv')
 
 
 def show_age_passengers(df):
