@@ -25,7 +25,8 @@ The project uses the **Airline Passenger Satisfaction Dataset** from Kaggle, whi
 - Target variable: **Satisfaction** (Satisfied / Dissatisfied)
 
 - Dataset link: [Kaggle - Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
-
+  
+-streamlit app link : https://airlinepassengersatisfaction-l.streamlit.app
 --------------
 ## Tools used
 
@@ -41,12 +42,5 @@ The project uses the **Airline Passenger Satisfaction Dataset** from Kaggle, whi
       
       Joblib
       
----------------
 
-##  How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MahmoudAbdrabo/Airline_passenger_satisfaction
-   cd Airline_passenger_satisfaction
 
